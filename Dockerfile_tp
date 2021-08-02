@@ -1,0 +1,2 @@
+FROM andrefernandes86/tools-tp-samples
+EXPOSE 80:80
