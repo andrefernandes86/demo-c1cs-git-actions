@@ -1,0 +1,2 @@
+FROM andrefernandes86/c1as-demo-dvwa
+EXPOSE 81:80
