@@ -1,2 +1,2 @@
-FROM andrefernandes86/tools-tp-samples
+FROM andrefernandes86/tools-malware-samples
 EXPOSE 80:80
